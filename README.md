@@ -1,0 +1,2 @@
+# bhavishya
+ first repositrory
